@@ -1,6 +1,7 @@
 # newhiwoong.github.io
 
-[![licenses](https://img.shields.io/badge/licenses-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)[![results](https://img.shields.io/badge/results-Web-blue.svg)](https://opensource.org/licenses/MIT)  
+[![licenses](https://img.shields.io/badge/licenses-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)[![results](https://img.shields.io/badge/results-Web-blue.svg)](https://opensource.org/licenses/MIT) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield)
+ 
 
 > [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
 
@@ -69,3 +70,7 @@ post를 작성하면 위와 같이 `git push` 작업을 해서 블로그에 올�
 ## Base code
 
 > https://github.com/hmfaysal/Notepad
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_large)
